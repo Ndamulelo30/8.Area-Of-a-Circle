@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "8.Area Of a Circle", "8.Area Of a Circle\8.Area Of a Circle.vbproj", "{74B66F41-64BB-46F2-8C87-42DA5F63373E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74B66F41-64BB-46F2-8C87-42DA5F63373E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B66F41-64BB-46F2-8C87-42DA5F63373E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B66F41-64BB-46F2-8C87-42DA5F63373E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B66F41-64BB-46F2-8C87-42DA5F63373E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63DE7A68-B22E-4BEC-BD46-E9DCAA74B4F7}
+	EndGlobalSection
+EndGlobal
